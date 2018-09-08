@@ -1,0 +1,52 @@
+.body {
+  
+}
+
+.my-container {
+  /* display: block; */
+}
+
+.my-content {
+  padding-bottom: 50px;
+  padding-top: 20px;
+}
+
+.my-navbar {
+  background-color: #1e66bc;
+  color: white;
+}
+
+#my-nav-name {
+  padding: 0 5px 7px 5px;
+}
+
+.carousel {
+  padding-top: 20px;
+}
+
+/* .navbar-brand {
+  color: white;
+} */
+
+#navbarNav a:link,
+#navbarNav a:visited,
+#navbarNav a:hover {
+  color: #ccc;
+  font-weight: normal;
+}
+
+#navbarNav a:hover,
+#navbarNav a:active {
+  color: white;
+}
+
+.my-footer {
+  text-align: center;
+  height: 40px;
+  padding: auto;
+  background-color: #1e66bc;
+  color: white;
+  display: inline-block;
+  float: none;
+  font-weight: lighter;
+}
