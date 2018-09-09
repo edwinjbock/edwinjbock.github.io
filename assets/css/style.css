@@ -1,9 +1,48 @@
+* {
+}
 .body {
-  
+    padding-top: 100px;
 }
 
-.my-container {
-  /* display: block; */
+.navbar {
+  height: 100px;
+}
+
+.my-navbar {
+  /* background-color: #1e66bc; */
+  background-color: #3276ce;
+  color: white;
+}
+
+#my-nav-name {
+  padding: 5px 10px 7px 10px;
+}
+
+#navbarNav a:link,
+#navbarNav a:visited {
+  color: #ccc;
+  font-weight: normal;
+  text-decoration: none;
+}
+
+#navbarNav a:hover,
+#navbarNav a:active {
+  color: white;
+  text-decoration: none;
+}
+
+.my-jumbotron {
+  background-color: #3276ce;
+  color: white;
+  text-align: center;
+  padding: 25px 0 20px 0;
+  height: 250px;
+  margin-top: 95px;
+  margin-bottom: 0px;
+}
+
+.carousel {
+  padding-top: 20px;
 }
 
 .my-content {
@@ -11,32 +50,13 @@
   padding-top: 20px;
 }
 
-.my-navbar {
-  background-color: #1e66bc;
-  color: white;
-}
-
-#my-nav-name {
-  padding: 0 5px 7px 5px;
-}
-
-.carousel {
-  padding-top: 20px;
-}
-
-/* .navbar-brand {
-  color: white;
-} */
-
-#navbarNav a:link,
-#navbarNav a:visited,
-#navbarNav a:hover {
+.my-jumbotron a:link, a:visited {
   color: #ccc;
   font-weight: normal;
+
 }
 
-#navbarNav a:hover,
-#navbarNav a:active {
+.my-jumbotron a:hover, a:active {
   color: white;
 }
 
