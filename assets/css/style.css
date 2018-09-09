@@ -2,6 +2,7 @@
 }
 .body {
     padding-top: 100px;
+    background-image: url("./images/code_blurred_bw.png");
 }
 
 .navbar {
@@ -32,6 +33,10 @@
   text-decoration: none;
 }
 
+.jumbotron {
+  /* border-bottom: 2px red solid; */
+}
+
 .my-jumbotron {
   background-color: #3276ce;
   color: white;
@@ -40,11 +45,12 @@
   height: 250px;
   margin-top: 95px;
   margin-bottom: 0px;
+  /* border-bottom: 2px red solid; */
 }
 
-h1 {
+/* h1 {
   color: red;
-}
+} */
 
 .my-content h3 {
   color: #3276ce;
