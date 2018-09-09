@@ -16,6 +16,7 @@
 
 #my-nav-name {
   padding: 5px 10px 7px 10px;
+  border-color: red;
 }
 
 #navbarNav a:link,
@@ -39,6 +40,14 @@
   height: 250px;
   margin-top: 95px;
   margin-bottom: 0px;
+}
+
+h1 {
+  color: red;
+}
+
+.my-content h3 {
+  color: #3276ce;
 }
 
 .carousel {
