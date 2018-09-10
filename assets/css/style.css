@@ -2,7 +2,7 @@
 }
 .body {
     padding-top: 100px;
-    background-image: url("./images/code_blurred_bw.png");
+    /* background-image: url("./images/code_blurred_bw.png"); */
 }
 
 .container {
@@ -22,7 +22,7 @@
 
 #my-nav-name {
   padding: 5px 10px 7px 10px;
-  border-color: red;
+  /* border-color: red; */
 }
 
 #navbarNav a:link,
