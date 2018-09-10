@@ -14,15 +14,12 @@
 }
 
 .my-navbar {
-  /* background-color: #1e66bc; */
-  /* background-color: #3276ce; */
   background-color: #290567;
   color: white;
 }
 
 #my-nav-name {
   padding: 5px 10px 7px 10px;
-  /* border-color: red; */
 }
 
 #navbarNav a:link,
@@ -39,7 +36,7 @@
 }
 
 .jumbotron {
-  /* border-bottom: 2px red solid; */
+  
 }
 
 .my-jumbotron {
@@ -148,4 +145,28 @@ input {
   display: inline-block;
   float: none;
   font-weight: lighter;
+}
+
+@media screen and (max-width: 1024px) {
+  .container {
+    max-width: 1024px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    max-width: 768px;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .container {
+    max-width: 640px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .container {
+    max-width: 320px;
+  }
 }
