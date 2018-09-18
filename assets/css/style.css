@@ -14,7 +14,7 @@
 }
 
 .my-navbar {
-  background-color: #290567;
+  background-color: #2a2a57; /* 290567 */
   color: white;
 }
 
@@ -40,7 +40,7 @@
 }
 
 .my-jumbotron {
-  background-color: #290567;
+  background-color: #2a2a57;
   color: white;
   text-align: center;
   padding: 25px 0 20px 0;
@@ -56,7 +56,7 @@
 } */
 
 .my-content h3 {
-  color: #290567;
+  color: #2a2a57;
 }
 
 .carousel {
@@ -80,14 +80,14 @@
 
 .my-container a:link,
 .my-container a:visited {
-  color: #290567;
+  color: #2a2a57;
   font-weight: normal;
   text-decoration: none;
 }
 
 .my-container a:hover,
 .my-container a:active {
-  color: #290567;
+  color: #2a2a57;
   text-decoration: underline;
 }
 
@@ -119,7 +119,7 @@
   line-height: 20px;
   color: #fff;
   text-align: center;
-  background: #290567;
+  background: #2a2a57;
   border-bottom: 0;
 }
 
@@ -140,7 +140,7 @@ input {
   text-align: center;
   height: 40px;
   padding: auto;
-  background-color: #290567;
+  background-color: #2a2a57;
   color: white;
   display: inline-block;
   float: none;
